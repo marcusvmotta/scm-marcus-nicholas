@@ -10,7 +10,9 @@
 
 /* ---------- Página ----------
    Parte 3: o Aluno B altera background-color e font-family */
-body {
+
+
+   body {
     margin: 0;
     color: #334155;
     background-color: #f0f4f8;
