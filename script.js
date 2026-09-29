@@ -8,3 +8,6 @@
 // Na Parte 4 do roteiro, o Aluno A adiciona aqui uma mensagem
 // que aparece no console do navegador. Para vê-la, abra a página,
 // pressione F12 e selecione a aba "Console".
+document.addEventListener('DOMContentLoaded', function () {
+    console.log('DevLab — página carregada com sucesso!');
+});
